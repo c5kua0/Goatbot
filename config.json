@@ -1,13 +1,13 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "miobokopolo@gmail.com",
+    "password": "puahwhsnd",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
     "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
     "intervalGetNewCookie": 1440,
-    "notes": "time the system automatically retrieves new cookies from email/password, unit is minute, if you set null, the system will not automatically retrieve new cookies, it saves you from having to manually change your cookie every time it expires. recommended set to 1440 (1day) or 4320 (3day).TO BE ABLE TO USE THIS FEATURE YOU NEED TO ENTER THE ACCOUNT PASSWORD ABOVE"
+    "notes": "1000"
   },
   "antiInbox": false,
   "language": "en",
@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100000768468627",
+    "100082959835429",
     "100030205562796",
     "",
     "",
@@ -34,8 +34,8 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
-    "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
-  },
+    "notes": "disable" 
+},
   "nickNameBot": "𓆩X-NiL‣᭄𓆪-143🔥",
   "authorName": "𝐗𝐍𝐈𝐋",
   "authorFB": "https://www.facebook.com/xnilxhowdhury143",
